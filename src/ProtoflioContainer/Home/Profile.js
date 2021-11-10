@@ -19,37 +19,37 @@ function Profile() {
           <div className="colz">
               <div className="colz-icon">
 
-            <a href="#">
+            <a href="facebook.com">
               <i class="fa fa-facebook-square">
                 <Facebook />
               </i>
             </a>
-            <a href="#">
+            <a href="https://github.com/yonas34">
               <i class="">
                 <Github />{" "}
               </i>{" "}
             </a>
-            <a href="#">
+            <a href="instagram.com">
               <i class="fa fa-facebook-instagram">
                 <Instagram />
               </i>
             </a>
-            <a href="#">
+            <a href="youtube.com">
               <i class="fa fa-youtube-square">
                 <Youtube />
               </i>
             </a>
-            <a href="#">
+            <a href="twitter.com">
               <i class="fa fa-twitter">
                 <Twitter />
               </i>
             </a>
-            <a href="#">
+            <a href="linkedin.com">
               <i class="fa fa-twitter">
                 <Linkedin />
               </i>
             </a>
-            <a href="#">
+            <a href="gmail.com">
               <i class="fa fa-twitter">
                 <Google />
               </i>
